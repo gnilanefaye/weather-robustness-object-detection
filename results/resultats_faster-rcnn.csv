@@ -1,0 +1,27 @@
+modele,meteo,niveau,mAP50,mAP50_95
+Faster R-CNN,fog,1,0.799121,0.520584
+Faster R-CNN,fog,2,0.772764,0.481254
+Faster R-CNN,fog,3,0.611415,0.377829
+Faster R-CNN,fog,4,0.477575,0.284283
+Faster R-CNN,fog,5,0.365849,0.236473
+Faster R-CNN,glare,1,0.814490,0.536614
+Faster R-CNN,glare,2,0.821299,0.542178
+Faster R-CNN,glare,3,0.835810,0.542039
+Faster R-CNN,glare,4,0.805222,0.533686
+Faster R-CNN,glare,5,0.813359,0.535180
+Faster R-CNN,night,1,0.749774,0.516500
+Faster R-CNN,night,2,0.764720,0.521794
+Faster R-CNN,night,3,0.739490,0.504665
+Faster R-CNN,night,4,0.706763,0.476372
+Faster R-CNN,night,5,0.659886,0.449044
+Faster R-CNN,original,0,0.821301,0.545899
+Faster R-CNN,rain,1,0.686339,0.471903
+Faster R-CNN,rain,2,0.685754,0.451209
+Faster R-CNN,rain,3,0.584204,0.359784
+Faster R-CNN,rain,4,0.431456,0.272815
+Faster R-CNN,rain,5,0.301040,0.170033
+Faster R-CNN,snow,1,0.776729,0.508384
+Faster R-CNN,snow,2,0.740342,0.470137
+Faster R-CNN,snow,3,0.577236,0.378771
+Faster R-CNN,snow,4,0.405334,0.252706
+Faster R-CNN,snow,5,0.166369,0.103602
